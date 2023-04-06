@@ -250,16 +250,7 @@
             "price":"100 $",
             "rating":"4.9/5"
         },
-        {
-            "id":26,
-            "title":"CASIO SA-46 32-key Portable Musical Mini Keyboard",
-            "description":"CASIO SA-46 32-key Portable Musical Mini Keyboard EarbudsLED-backlit display with IPS technology Features: Magic Keyboard and the Touch Bar",
-            "img":"https://www.startech.com.bd/image/cache/catalog/earbuds/uiisii/gm40-pro/gm40-pro-01-228x228.webp",
-            "category":"Keyboard",
-            "brand":"CASIO",
-            "price":"100 $",
-            "rating":"4.6/5"
-        },
+       
         {
             "id":26,
             "title":"CASIO SA-46 32-key Portable Musical Mini Keyboard",
