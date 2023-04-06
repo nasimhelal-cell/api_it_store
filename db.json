@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "id":1,
+            "title":"Lenovo V15 G2 15.6 inch Laptop",
+            "description":"Lenovo V15 G2 15.6 Laptop Computer - Black; Intel Core i5 11th Gen 1135G7 2.4GHz Processor; 16GB DDR4-3200 RAM; 1TB Solid State Drive; Intel Iris Xe Graphics",
+            "img":"https://90a1c75758623581b3f8-5c119c3de181c9857fcb2784776b17ef.ssl.cf2.rackcdn.com/0660281_515403.jpg",
+            "category":"laptop",
+            "brand":"lenovo",
+            "price":"500 $",
+            "rating":"4.8/5"
+        },
+        {
+            "id":2,
+            "title":"Inspiron 14 Laptop",
+            "description":"12th Generation Intel® Core™ i5-1235U Windows 11 Home Single Language Intel® Iris®Graphics 16 GB, 2 x 8 GB, DDR4, 3200 MHz  512 GB, M.2, PCIe NVMe, SSD 35.5-cm. display Full HD (1920X1200)",
+            "img":"https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/in-dhs-inspiron-14-5420-pp-grey.png",
+            "category":"laptop",
+            "brand":"hp",
+            "price":"599 $",
+            "rating":"4.9/5"
+        }
+      
+    ]
+}
